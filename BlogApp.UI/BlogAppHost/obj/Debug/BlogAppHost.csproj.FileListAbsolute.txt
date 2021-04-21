@@ -1,0 +1,7 @@
+C:\Users\hp-kyrylchenko\Desktop\proj\BlogApp.UI\BlogAppHost\bin\Debug\BlogAppHost.exe.config
+C:\Users\hp-kyrylchenko\Desktop\proj\BlogApp.UI\BlogAppHost\bin\Debug\BlogAppHost.exe
+C:\Users\hp-kyrylchenko\Desktop\proj\BlogApp.UI\BlogAppHost\bin\Debug\BlogAppHost.pdb
+C:\Users\hp-kyrylchenko\Desktop\proj\BlogApp.UI\BlogAppHost\obj\Debug\BlogAppHost.csprojAssemblyReference.cache
+C:\Users\hp-kyrylchenko\Desktop\proj\BlogApp.UI\BlogAppHost\obj\Debug\BlogAppHost.csproj.CoreCompileInputs.cache
+C:\Users\hp-kyrylchenko\Desktop\proj\BlogApp.UI\BlogAppHost\obj\Debug\BlogAppHost.exe
+C:\Users\hp-kyrylchenko\Desktop\proj\BlogApp.UI\BlogAppHost\obj\Debug\BlogAppHost.pdb
